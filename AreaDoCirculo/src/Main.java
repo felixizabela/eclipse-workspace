@@ -9,6 +9,8 @@ public class Main {
 		
 		Scanner in = new Scanner(System.in);
 		
+		System.out.println("Informe o raio:");
+		
 		raio = in.nextDouble();
 		
 		area = n * (raio * raio);
